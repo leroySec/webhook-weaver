@@ -2,7 +2,6 @@
 
 > Add Zapier-like automation workflows to your React app in minutes — not months.
 
-![Webhook Weaver Demo](https://via.placeholder.com/900x420?text=Webhook+Weaver+Demo)
 
 
 ## 📛 Badges
