@@ -1,6 +1,6 @@
 # Webhook Weaver · Open-source Zapier-style Workflow Builder for React
 
-> Add Zapier-like automation workflows to your React app in minutes — not months.
+> Add Zapier-like automation workflows to your React app in minutes — not months.Webhook Weaver's modular architecture lets you start with our production-ready React component while keeping full control over your backend logic and infrastructure."
 
 
 
