@@ -94,7 +94,7 @@ function AutomationSettings() {
 }
 ```
 
-3. Handle Webhooks in Your Backend
+# 3. Handle Webhooks in Your Backend
 
 Set up endpoints to receive and process the automation events.
 
