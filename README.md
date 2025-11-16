@@ -27,7 +27,6 @@ Perfect for SaaS products, dashboards, internal tools, no-code platforms, and an
 
 👉 Install Webhook Weaver and get a **production-ready automation builder** in minutes.
 
----
 
 ## ✨ Features
 
@@ -98,25 +97,25 @@ function AutomationSettings() {
 
 Set up endpoints to receive and process the automation events.
 
-## Use Cases
+**Use Cases**
 
 E-commerce Platforms
 
-· Order processing workflows
-· Inventory management automations
-· Customer notification systems
+- Order processing workflows
+- Inventory management automations
+- Customer notification systems
 
-SaaS Applications
+**SaaS Applications**
 
-· User onboarding sequences
-· Data synchronization workflows
-· Team collaboration automations
+- User onboarding sequences
+- Data synchronization workflows
+- Team collaboration automations
 
-Internal Tools
+**Internal Tools**
 
-· DevOps automation
-· Data processing pipelines
-· Notification systems
+- DevOps automation
+- Data processing pipelines
+- Notification systems
 
 ## 🔧 API Reference
 
